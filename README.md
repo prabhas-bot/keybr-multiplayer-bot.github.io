@@ -16,11 +16,11 @@ from the area(where the sentence to type is found)
 
 Now after closing and saving the code now open keybr multiplayer open a terminal and minimize it and keep aside
 
-type 'cd keybr-mulitplayer-bot'
+type 'cd keybr-mulitplayer-bot.github.io'
 
 now type 'python3 bot.py' 
 
-and wait until it says 3 ,2 1 ,now press enter
+and wait until race begins and says 3 ,2 1  or at the count 2 ,now press enter
 
 
 Sit back and relax it type at speed 2000 or may be more.
